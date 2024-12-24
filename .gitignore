@@ -1,5 +1,4 @@
 # Ignore the build output folder inside frontend
-/frontend/build
 
 # Node.js dependencies
 /node_modules
@@ -15,4 +14,4 @@ yarn-error.log*
 .env.*.local
 
 # Build outputs for frontend and backend
-/build
+
