@@ -1,6 +1,8 @@
+# Ignore the build output folder inside frontend
+/frontend/build
+
 # Node.js dependencies
 /node_modules
-
 
 # Miscellaneous
 npm-debug.log*
@@ -12,5 +14,5 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-# Build outputs
+# Build outputs for frontend and backend
 /build
